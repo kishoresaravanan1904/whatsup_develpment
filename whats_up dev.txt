@@ -1,11 +1,7 @@
-This is whatsup code:
 
-Author: Arulprasath
 
-1.Profile page code
-2. chat screen code
-3. last seen code
-4. Attachements (Image,audio,video)
-hiding the last seen
-adding the audio call feature
-adding the video call feature
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
